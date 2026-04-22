@@ -1,0 +1,11 @@
+2026-04-23 02:11:44,967 - INFO - Placing Order: BTCUSDT BUY MARKET 0.001 None
+2026-04-23 02:11:46,099 - INFO - Order Response: {}
+2026-04-23 02:12:01,249 - INFO - Placing Order: BTCUSDT BUY LIMIT 0.001 60000.0
+2026-04-23 02:12:02,012 - INFO - Order Response: {}
+2026-04-23 02:12:19,329 - INFO - Placing Order: BTCUSDT BUY MARKET 0.001 None
+2026-04-23 02:12:20,135 - INFO - Order Response: {}
+2026-04-23 02:12:20,581 - INFO - SL/TP Orders: [('Stop Loss', {}), ('Take Profit', {})]
+2026-04-23 02:12:37,463 - INFO - Placing Order: BTCUSDT BUY MARKET 0.001 545
+2026-04-23 02:12:38,300 - INFO - Order Response: {}
+2026-04-23 02:12:45,271 - INFO - Placing Order: BTCUSDT BUY MARKET 0.001 155224
+2026-04-23 02:12:45,529 - INFO - Order Response: {}
